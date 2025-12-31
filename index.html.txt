@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Happy New Year 2026</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="page center">
+    <h1 class="big">✨ Happy New Year 2026, my love ✨</h1>
+    <p class="lead">A little surprise with memories, wishes, and a countdown — made just for you.</p>
+    <div class="hero-row">
+      <img src="images/fireworks.svg" alt="fireworks" class="hero-art"/>
+      <div class="controls">
+      <a class="btn" href="love.html">Open My Love Note</a>
+      <a class="btn" href="memories.html">Shared Memories</a>
+      <a class="btn" href="wishes.html">My Wishes For You</a>
+      <a class="btn" href="countdown.html">Countdown</a>
+      <button class="btn music-btn" onclick="_NY_toggleMusic()">Play Music</button>
+      </div>
+    </div>
+    <div class="heart">❤</div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
